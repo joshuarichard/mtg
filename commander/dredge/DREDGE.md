@@ -1,5 +1,8 @@
 # Dredge Commander
 
+![alt text][logo]
+[logo]: "./pics/muldrotha.jpg "Muldrotha, the Gravetide"
+
 ## Sortable Table
 
 | #  | Qty. | Card Name                  | Type         | Black | Green | Blue | CMC | Graveyard Tutor | Tutor | Dredge-Like | Graveyard Feed | 2/2 Zombies | Mana Dork | Targeted Removal | Cantrips | Boardwipe | It's Good To Be In The Graveyard |
