@@ -1,5 +1,7 @@
 # Dredge Commander Deck List
 
+TODO: Update. Go to [TABLE.md](https://github.com/joshuarichard/mtg/blob/master/commander/dredge/TABLE.md) for the most updated list.
+
 ## Commander [1]
 
 1 Muldrotha, The Grave Tide
