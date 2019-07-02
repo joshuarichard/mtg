@@ -6,13 +6,13 @@ Magic: The Gathering deck lists... versioned, because why not.
 ### Modern
 
 #### Burn
-Not yet added to this repo. For now, visit [this](https://www.mtggoldfish.com/deck/1382333#paper) MTGGoldfish page.
+Not yet added to this repo. For now, visit [this MTGGoldfish page.](https://www.mtggoldfish.com/deck/1382333#paper)
 
 #### Delver
-Not yet added to this repo. For now, visit [this](https://www.mtggoldfish.com/deck/1451465#paper) MTGGoldfish page.
+Not yet added to this repo. For now, visit [this MTGGoldfish page.](https://www.mtggoldfish.com/deck/1451465#paper)
 
 #### Storm
-Not yet added to this repo. For now, visit [this](https://www.mtggoldfish.com/deck/1373379#paper) MTGGoldfish page.
+Not yet added to this repo. For now, visit [this MTGGoldfish page.](https://www.mtggoldfish.com/deck/1373379#paper)
 
 ### Commander
 
@@ -20,4 +20,4 @@ Not yet added to this repo. For now, visit [this](https://www.mtggoldfish.com/de
 Go to [this](https://github.com/joshuarichard/mtg/tree/master/commander/dredge) directory.
 
 #### Proliferate (Atraxa, Praetors' Voice)
-Not yet added to this repo. For now, visit [this](https://www.mtggoldfish.com/deck/2013415#paper) MTGGoldfish page.
+Not yet added to this repo. For now, visit [this MTGGoldfish page.](https://www.mtggoldfish.com/deck/2013415#paper)
